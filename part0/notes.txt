@@ -1,0 +1,13 @@
+Glossary
+
+Callback functions.- Is a function passed to another function as an argument also called as event handler.
+
+DOM (Document Object Model).- Is an Application Programming Interface (API) that enables programmatic modification
+of the element trees corresponding to web pages.
+
+CSS.- Cascading Style Sheets
+
+AJAX (Asynchronous JavaScript and XML).- A new revolutionary approach that enabled the fetching of content to web
+pages using JavaScript included within the HTML, without the need to rerender the page.
+
+HTML (HyperText Markup Language) is the code that is used to structure a web page and its content.
